@@ -1,0 +1,17 @@
+pot3.txt
+Path: /workspaces/dggfg/pot3.txt
+Created: 2025-11-21
+
+Purpose:
+A simple placeholder/notes file for the dggfg workspace.
+
+Notes:
+- Use this file for quick project notes, TODOs, or snippets.
+- To open a URL in the host's default browser from the dev container use:
+    $BROWSER <url>
+    Example: $BROWSER https://example.com
+
+TODO:
+- Add project overview
+- List dependencies
+- Add run/debug instructions
